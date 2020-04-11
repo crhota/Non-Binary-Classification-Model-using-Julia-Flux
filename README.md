@@ -18,6 +18,6 @@ Details of what this notebook covers is listed below:
 - Define the model
 - Train the model and visualize the results
 
-Model used here is quite simple to help understand the concept of multiple outputs. However, note it is not able to encapsulate the classes uniquely (refer below decision boundaries... red/green/blue do not have only one respective class on one side). The model needs to be more complicated to handle this complexity.
+**Model used here is quite simple to help understand the concept of multiple outputs.** However, note it is not able to encapsulate the classes uniquely (refer below decision boundaries... red/green/blue do not have only one respective class on one side). **The model needs to be more complicated to handle this complexity.**
 
 <img src = "images/Output.JPG">
